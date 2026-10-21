@@ -1,6 +1,6 @@
 ## Hi, I'm Imasha Nethmal
 
-Biomedical engineer (B.Sc. Eng. Hons, University of Moratuwa, Sri Lanka) working on **analog/mixed-signal IC design for wearable biosignal acquisition** — low-noise front ends, electrode–skin impedance sensing and motion-artifact cancellation, from PCB prototypes to custom ICs on open-source PDKs.
+Biomedical engineer (B.Sc. Eng. Hons, University of Moratuwa, Sri Lanka) working on **analog/mixed-signal IC design, wearable biosignal acquisition and biosignal processing** — low-noise front ends, electrode–skin impedance sensing and motion-artifact cancellation, from PCB prototypes to custom ICs on open-source PDKs.
 
 ### Publications
 - **A Dry-Contact Ear-EEG System With Continuous Electrode-Skin Impedance Mismatch Monitoring for Motion Artifact Cancellation Using DRL Stimulus** — IEEE BioCAS 2026 (lecture) · [arXiv:2609.02777](https://arxiv.org/abs/2609.02777)
